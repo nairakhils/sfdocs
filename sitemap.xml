@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/code-examples/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/configuration/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/definitions/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/presets/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/products-timeseries/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/setups/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://clemson-cal.github.io/sfdocs/tutorial/</loc>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+</urlset>

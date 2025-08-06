@@ -1,0 +1,65 @@
+/* Much smaller font sizes for compact display */
+:root {
+  --md-text-font-size: 0.75rem;  /* Much smaller base size */
+}
+
+/* Main content text */
+.md-content {
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+/* Headings scaled down significantly */
+.md-content h1 {
+  font-size: 1.5rem;    /* Much smaller */
+}
+
+.md-content h2 {
+  font-size: 1.25rem;   /* Much smaller */
+}
+
+.md-content h3 {
+  font-size: 1.125rem;  /* Much smaller */
+}
+
+.md-content h4 {
+  font-size: 1rem;      /* Much smaller */
+}
+
+.md-content h5, .md-content h6 {
+  font-size: 0.875rem;  /* Much smaller */
+}
+
+/* Code blocks and inline code */
+.md-content code {
+  font-size: 0.7rem;
+}
+
+.md-content pre code {
+  font-size: 0.7rem;
+}
+
+/* Navigation text */
+.md-nav {
+  font-size: 0.7rem;
+}
+
+/* Table text */
+.md-content table {
+  font-size: 0.7rem;
+}
+
+/* Admonition content */
+.md-content .admonition {
+  font-size: 0.75rem;
+}
+
+/* List items */
+.md-content li {
+  font-size: 0.75rem;
+}
+
+/* Paragraphs in admonitions */
+.md-content .admonition p {
+  font-size: 0.75rem;
+}
